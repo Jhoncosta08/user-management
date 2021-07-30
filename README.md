@@ -1,6 +1,6 @@
 ## Summary:
 
-JavaScript design of a user management system,
+JavaScript project of a user management system,
 users are saved in localhost, an api rest was done in node for
 administer users instead of localhost, but it is not implemented
 In the project.
