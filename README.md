@@ -35,8 +35,7 @@ This command is to create a local server on port 4000 of your browser to run the
 - [x] Access the url: [http://localhost:4000/](http://localhost:4000/)
 - [x] Ready, the api will already be running and ready
 
-## obs: leave the api running if you want to test the methods via postman, as they do not
-are implemented on the front end
+## obs: leave the api running if you want to test the methods via postman, as they do not are implemented on the front end
 
 ## Front end(fe)
 
